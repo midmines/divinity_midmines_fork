@@ -70,9 +70,9 @@ expected most of the time.
 
 ### Dynamic `/stats` menu
 
-Video: [2026-11-07 14-51-26.mp4](<docs/images/showcase/2026-11-07 14-51-26.mp4>)
+![Dynamic `/stats` menu showcase](showcase/2026-11-07%2014-51-26.gif)
 
-Showcase images are stored in [`docs/images/showcase/`](./docs/images/showcase/).
+The animated GIF is stored in [`showcase/`](./showcase/).
 
 ## Development
 
