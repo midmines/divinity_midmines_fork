@@ -59,16 +59,16 @@ not guaranteed. This fork may differ from or lag behind the official project.
 
 ## Showcase
 
-Screenshots will be added here when available. Put showcase images in
-[`docs/images/showcase/`](./docs/images/showcase/), for example:
+### Item Generator and `/stats`
 
-- `item-generator.png` — an item created by the item generator.
-- `stats-menu.png` — the `/stats` menu.
+![Generated item and stats menu showcase](docs/images/showcase/item-generator-and-stats.png)
 
-<!-- When the screenshots have been added, replace this note with:
-![Item generator example](docs/images/showcase/item-generator.png)
-![Stats menu example](docs/images/showcase/stats-menu.png)
--->
+The generator configuration shown disables the Attack Speed, AoE Damage, and
+Durability lore entries. The displayed bow did not become soulbound on this
+roll: the screenshot shows a 20% soulbound chance, so a non-soulbound result is
+expected most of the time.
+
+Showcase images are stored in [`docs/images/showcase/`](./docs/images/showcase/).
 
 ## Development
 
