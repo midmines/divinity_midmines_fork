@@ -70,9 +70,7 @@ expected most of the time.
 
 ### Dynamic `/stats` menu
 
-[![Dynamic `/stats` menu showcase video — click to open](docs/images/showcase/item-generator-and-stats.png)](docs/images/showcase/stats-dynamic.mp4)
-
-Click the preview to open the 11-second MP4 video.
+Video: [2026-11-07 14-51-26.mp4](<docs/images/showcase/2026-11-07 14-51-26.mp4>)
 
 Showcase images are stored in [`docs/images/showcase/`](./docs/images/showcase/).
 
