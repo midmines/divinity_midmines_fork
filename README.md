@@ -68,6 +68,12 @@ Durability lore entries. The displayed bow did not become soulbound on this
 roll: the screenshot shows a 20% soulbound chance, so a non-soulbound result is
 expected most of the time.
 
+### Dynamic `/stats` menu
+
+[![Dynamic `/stats` menu showcase video — click to open](docs/images/showcase/item-generator-and-stats.png)](docs/images/showcase/stats-dynamic.mp4)
+
+Click the preview to open the 11-second MP4 video.
+
 Showcase images are stored in [`docs/images/showcase/`](./docs/images/showcase/).
 
 ## Development
