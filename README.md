@@ -57,6 +57,19 @@ not guaranteed. This fork may differ from or lag behind the official project.
   are stored without being displayed.
 - The hand-type generator no longer adds hand lore to non-weapon items.
 
+## Showcase
+
+Screenshots will be added here when available. Put showcase images in
+[`docs/images/showcase/`](./docs/images/showcase/), for example:
+
+- `item-generator.png` — an item created by the item generator.
+- `stats-menu.png` — the `/stats` menu.
+
+<!-- When the screenshots have been added, replace this note with:
+![Item generator example](docs/images/showcase/item-generator.png)
+![Stats menu example](docs/images/showcase/stats-menu.png)
+-->
+
 ## Development
 
 Build the project and run its tests with:
